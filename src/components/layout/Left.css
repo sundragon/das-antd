@@ -1,0 +1,12 @@
+.inherit-height {    
+    height: calc( 100vh - 64px )
+}
+
+.ant-menu-submenu-title {
+    text-align: left;
+}
+
+.ant-menu-inline > .ant-menu-item {
+    padding-left: 64px;
+    text-align: left;
+}

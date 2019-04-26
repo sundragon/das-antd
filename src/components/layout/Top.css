@@ -1,0 +1,12 @@
+.logo {
+    width: 122px;
+    height: 31px;
+    background: rgba(255,255,255,.2);  
+    margin: 16px 28px 16px 0;
+    float: left;
+}
+
+.ant-menu.ant-menu-dark.ant-menu-root.ant-menu-horizontal > .ant-menu-item {
+    width: 100px;
+    text-align: center;
+}
